@@ -10,7 +10,7 @@ The solution combines multi-tier networking, serverless processing, managed data
 
 ## Architecture
 
-![Architecture Diagram](docs/architecture-diagram.png)
+![Architecture Diagram](docs/aws-cloud-deployment-architecture.png)
 
 ### High-Level Design
 
